@@ -1,0 +1,11 @@
+name: german
+title:
+username:
+account: superjarle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8625087
+bundleId: 6985746
+url: https://superjarle.shinyapps.io/german/
+when: 1679377775.15893
+lastSyncTime: 1679377775.15895
